@@ -1,0 +1,7 @@
+d:\VS2010\Projects\Conversion\Conversion\bin\Debug\Conversion.exe
+d:\VS2010\Projects\Conversion\Conversion\bin\Debug\Conversion.pdb
+d:\VS2010\Projects\Conversion\Conversion\obj\x86\Debug\Conversion.Form1.resources
+d:\VS2010\Projects\Conversion\Conversion\obj\x86\Debug\Conversion.Properties.Resources.resources
+d:\VS2010\Projects\Conversion\Conversion\obj\x86\Debug\Conversion.csproj.GenerateResource.Cache
+d:\VS2010\Projects\Conversion\Conversion\obj\x86\Debug\Conversion.exe
+d:\VS2010\Projects\Conversion\Conversion\obj\x86\Debug\Conversion.pdb

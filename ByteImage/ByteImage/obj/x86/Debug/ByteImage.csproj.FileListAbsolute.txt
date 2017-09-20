@@ -1,0 +1,7 @@
+d:\VS2010\Projects\ByteImage\ByteImage\bin\Debug\ByteImage.exe
+d:\VS2010\Projects\ByteImage\ByteImage\bin\Debug\ByteImage.pdb
+d:\VS2010\Projects\ByteImage\ByteImage\obj\x86\Debug\ByteImage.Form1.resources
+d:\VS2010\Projects\ByteImage\ByteImage\obj\x86\Debug\ByteImage.Properties.Resources.resources
+d:\VS2010\Projects\ByteImage\ByteImage\obj\x86\Debug\ByteImage.csproj.GenerateResource.Cache
+d:\VS2010\Projects\ByteImage\ByteImage\obj\x86\Debug\ByteImage.exe
+d:\VS2010\Projects\ByteImage\ByteImage\obj\x86\Debug\ByteImage.pdb

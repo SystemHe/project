@@ -1,0 +1,4 @@
+d:\VS2010\Projects\JudgePNumDemo\JudgePNumDemo\bin\Debug\JudgePNumDemo.exe
+d:\VS2010\Projects\JudgePNumDemo\JudgePNumDemo\bin\Debug\JudgePNumDemo.pdb
+d:\VS2010\Projects\JudgePNumDemo\JudgePNumDemo\obj\x86\Debug\JudgePNumDemo.exe
+d:\VS2010\Projects\JudgePNumDemo\JudgePNumDemo\obj\x86\Debug\JudgePNumDemo.pdb

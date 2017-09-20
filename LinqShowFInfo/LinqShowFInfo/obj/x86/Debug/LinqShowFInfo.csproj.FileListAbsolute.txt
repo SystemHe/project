@@ -1,0 +1,8 @@
+d:\VS2010\Projects\LinqShowFInfo\LinqShowFInfo\bin\Debug\LinqShowFInfo.exe
+d:\VS2010\Projects\LinqShowFInfo\LinqShowFInfo\bin\Debug\LinqShowFInfo.pdb
+d:\VS2010\Projects\LinqShowFInfo\LinqShowFInfo\obj\x86\Debug\LinqShowFInfo.Form1.resources
+d:\VS2010\Projects\LinqShowFInfo\LinqShowFInfo\obj\x86\Debug\LinqShowFInfo.Properties.Resources.resources
+d:\VS2010\Projects\LinqShowFInfo\LinqShowFInfo\obj\x86\Debug\LinqShowFInfo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\LinqShowFInfo\LinqShowFInfo\obj\x86\Debug\LinqShowFInfo.exe
+d:\VS2010\Projects\LinqShowFInfo\LinqShowFInfo\obj\x86\Debug\LinqShowFInfo.pdb
+D:\VS2010\Projects\LinqShowFInfo\LinqShowFInfo\obj\x86\Debug\LinqShowFInfo.csprojResolveAssemblyReference.cache

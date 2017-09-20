@@ -1,0 +1,8 @@
+d:\VS2010\Projects\SqlConnectionDemo4\SqlConnectionDemo4\bin\Debug\SqlConnectionDemo4.exe
+d:\VS2010\Projects\SqlConnectionDemo4\SqlConnectionDemo4\bin\Debug\SqlConnectionDemo4.pdb
+d:\VS2010\Projects\SqlConnectionDemo4\SqlConnectionDemo4\obj\x86\Debug\SqlConnectionDemo4.Form1.resources
+d:\VS2010\Projects\SqlConnectionDemo4\SqlConnectionDemo4\obj\x86\Debug\SqlConnectionDemo4.Properties.Resources.resources
+d:\VS2010\Projects\SqlConnectionDemo4\SqlConnectionDemo4\obj\x86\Debug\SqlConnectionDemo4.csproj.GenerateResource.Cache
+d:\VS2010\Projects\SqlConnectionDemo4\SqlConnectionDemo4\obj\x86\Debug\SqlConnectionDemo4.exe
+d:\VS2010\Projects\SqlConnectionDemo4\SqlConnectionDemo4\obj\x86\Debug\SqlConnectionDemo4.pdb
+D:\VS2010\Projects\SqlConnectionDemo4\SqlConnectionDemo4\obj\x86\Debug\SqlConnectionDemo4.CopyDataGrideView.resources

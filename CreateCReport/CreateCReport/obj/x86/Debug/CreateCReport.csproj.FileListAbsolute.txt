@@ -1,0 +1,9 @@
+d:\VS2010\Projects\CreateCReport\CreateCReport\bin\Debug\CreateCReport.exe.config
+d:\VS2010\Projects\CreateCReport\CreateCReport\bin\Debug\CreateCReport.exe
+d:\VS2010\Projects\CreateCReport\CreateCReport\bin\Debug\CreateCReport.pdb
+d:\VS2010\Projects\CreateCReport\CreateCReport\obj\x86\Debug\CreateCReport.csprojResolveAssemblyReference.cache
+d:\VS2010\Projects\CreateCReport\CreateCReport\obj\x86\Debug\CreateCReport.Properties.Resources.resources
+d:\VS2010\Projects\CreateCReport\CreateCReport\obj\x86\Debug\CreateCReport.csproj.GenerateResource.Cache
+d:\VS2010\Projects\CreateCReport\CreateCReport\obj\x86\Debug\CreateCReport.exe
+d:\VS2010\Projects\CreateCReport\CreateCReport\obj\x86\Debug\CreateCReport.pdb
+d:\VS2010\Projects\CreateCReport\CreateCReport\obj\x86\Debug\CreateCReport.Form1.resources

@@ -1,0 +1,8 @@
+d:\VS2010\Projects\UseLinqToInsert\UseLinqToInsert\bin\Debug\UseLinqToInsert.exe.config
+d:\VS2010\Projects\UseLinqToInsert\UseLinqToInsert\bin\Debug\UseLinqToInsert.exe
+d:\VS2010\Projects\UseLinqToInsert\UseLinqToInsert\bin\Debug\UseLinqToInsert.pdb
+d:\VS2010\Projects\UseLinqToInsert\UseLinqToInsert\obj\x86\Debug\UseLinqToInsert.Form1.resources
+d:\VS2010\Projects\UseLinqToInsert\UseLinqToInsert\obj\x86\Debug\UseLinqToInsert.Properties.Resources.resources
+d:\VS2010\Projects\UseLinqToInsert\UseLinqToInsert\obj\x86\Debug\UseLinqToInsert.csproj.GenerateResource.Cache
+d:\VS2010\Projects\UseLinqToInsert\UseLinqToInsert\obj\x86\Debug\UseLinqToInsert.exe
+d:\VS2010\Projects\UseLinqToInsert\UseLinqToInsert\obj\x86\Debug\UseLinqToInsert.pdb

@@ -1,0 +1,8 @@
+d:\VS2010\Projects\ChangePicFormat\ChangePicFormat\bin\Debug\ChangePicFormat.exe
+d:\VS2010\Projects\ChangePicFormat\ChangePicFormat\bin\Debug\ChangePicFormat.pdb
+d:\VS2010\Projects\ChangePicFormat\ChangePicFormat\obj\x86\Debug\ChangePicFormat.Form1.resources
+d:\VS2010\Projects\ChangePicFormat\ChangePicFormat\obj\x86\Debug\ChangePicFormat.Properties.Resources.resources
+d:\VS2010\Projects\ChangePicFormat\ChangePicFormat\obj\x86\Debug\ChangePicFormat.csproj.GenerateResource.Cache
+d:\VS2010\Projects\ChangePicFormat\ChangePicFormat\obj\x86\Debug\ChangePicFormat.exe
+d:\VS2010\Projects\ChangePicFormat\ChangePicFormat\obj\x86\Debug\ChangePicFormat.pdb
+D:\VS2010\Projects\ChangePicFormat\ChangePicFormat\obj\x86\Debug\ChangePicFormat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+d:\VS2010\Projects\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+d:\VS2010\Projects\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+d:\VS2010\Projects\LoginDemo\LoginDemo\obj\x86\Debug\LoginDemo.exe
+d:\VS2010\Projects\LoginDemo\LoginDemo\obj\x86\Debug\LoginDemo.pdb

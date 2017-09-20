@@ -1,0 +1,4 @@
+d:\VS2010\Projects\CockSort\CockSort\bin\Debug\CockSort.exe
+d:\VS2010\Projects\CockSort\CockSort\bin\Debug\CockSort.pdb
+d:\VS2010\Projects\CockSort\CockSort\obj\x86\Debug\CockSort.exe
+d:\VS2010\Projects\CockSort\CockSort\obj\x86\Debug\CockSort.pdb

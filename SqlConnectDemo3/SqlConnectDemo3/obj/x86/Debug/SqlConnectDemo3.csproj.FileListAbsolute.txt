@@ -1,0 +1,9 @@
+d:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\bin\Debug\SqlConnectDemo3.exe.config
+d:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\bin\Debug\SqlConnectDemo3.exe
+d:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\bin\Debug\SqlConnectDemo3.pdb
+d:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\obj\x86\Debug\SqlConnectDemo3.Form1.resources
+d:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\obj\x86\Debug\SqlConnectDemo3.Properties.Resources.resources
+d:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\obj\x86\Debug\SqlConnectDemo3.csproj.GenerateResource.Cache
+d:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\obj\x86\Debug\SqlConnectDemo3.exe
+d:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\obj\x86\Debug\SqlConnectDemo3.pdb
+D:\VS2010\Projects\SqlConnectDemo3\SqlConnectDemo3\obj\x86\Debug\SqlConnectDemo3.csprojResolveAssemblyReference.cache

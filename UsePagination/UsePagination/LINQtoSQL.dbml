@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="test" Class="LINQtoSQLDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=test;Persist Security Info=True;User ID=he" SettingsObjectName="UsePagination.Properties.Settings" SettingsPropertyName="testConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.员工信息" Member="员工信息">
+    <Type Name="员工信息">
+      <Column Name="员工编号" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="员工姓名" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="性别" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="年龄" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="电话" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="地址" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="邮箱" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="员工状态" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="员工信息_部门信息" Member="部门信息" ThisKey="员工编号" OtherKey="员工编号" Type="部门信息" />
+      <Association Name="员工信息_公司信息" Member="公司信息" ThisKey="员工编号" OtherKey="员工" Type="公司信息" />
+    </Type>
+  </Table>
+  <Table Name="dbo.部门信息" Member="部门信息">
+    <Type Name="部门信息">
+      <Column Name="部门编号" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="部门名称" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="员工编号" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="公司编号" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="部门信息_公司信息" Member="公司信息" ThisKey="部门编号" OtherKey="公司部门" Type="公司信息" />
+      <Association Name="员工信息_部门信息" Member="员工信息" ThisKey="员工编号" OtherKey="员工编号" Type="员工信息" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.公司信息" Member="公司信息">
+    <Type Name="公司信息">
+      <Column Name="公司编号" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="公司名称" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="公司部门" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="员工" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="部门信息_公司信息" Member="部门信息" ThisKey="公司部门" OtherKey="部门编号" Type="部门信息" IsForeignKey="true" />
+      <Association Name="员工信息_公司信息" Member="员工信息" ThisKey="员工" OtherKey="员工编号" Type="员工信息" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

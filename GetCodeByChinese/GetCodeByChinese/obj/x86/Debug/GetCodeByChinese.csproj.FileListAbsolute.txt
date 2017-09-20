@@ -1,0 +1,4 @@
+d:\VS2010\Projects\GetCodeByChinese\GetCodeByChinese\bin\Debug\GetCodeByChinese.exe
+d:\VS2010\Projects\GetCodeByChinese\GetCodeByChinese\bin\Debug\GetCodeByChinese.pdb
+d:\VS2010\Projects\GetCodeByChinese\GetCodeByChinese\obj\x86\Debug\GetCodeByChinese.exe
+d:\VS2010\Projects\GetCodeByChinese\GetCodeByChinese\obj\x86\Debug\GetCodeByChinese.pdb

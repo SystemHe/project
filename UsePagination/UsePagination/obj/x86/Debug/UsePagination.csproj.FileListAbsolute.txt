@@ -1,0 +1,7 @@
+d:\VS2010\Projects\UsePagination\UsePagination\bin\Debug\UsePagination.exe
+d:\VS2010\Projects\UsePagination\UsePagination\bin\Debug\UsePagination.pdb
+d:\VS2010\Projects\UsePagination\UsePagination\obj\x86\Debug\UsePagination.Form1.resources
+d:\VS2010\Projects\UsePagination\UsePagination\obj\x86\Debug\UsePagination.Properties.Resources.resources
+d:\VS2010\Projects\UsePagination\UsePagination\obj\x86\Debug\UsePagination.csproj.GenerateResource.Cache
+d:\VS2010\Projects\UsePagination\UsePagination\obj\x86\Debug\UsePagination.exe
+d:\VS2010\Projects\UsePagination\UsePagination\obj\x86\Debug\UsePagination.pdb

@@ -1,0 +1,10 @@
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\bin\Debug\EmailSendAndReceive.exe
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\bin\Debug\EmailSendAndReceive.pdb
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\obj\x86\Debug\EmailSendAndReceive.Form1.resources
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\obj\x86\Debug\EmailSendAndReceive.frmReceive.resources
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\obj\x86\Debug\EmailSendAndReceive.frmSend.resources
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\obj\x86\Debug\EmailSendAndReceive.Properties.Resources.resources
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\obj\x86\Debug\EmailSendAndReceive.csproj.GenerateResource.Cache
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\obj\x86\Debug\EmailSendAndReceive.exe
+d:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\obj\x86\Debug\EmailSendAndReceive.pdb
+D:\VS2010\Projects\EmailSendAndReceive\EmailSendAndReceive\obj\x86\Debug\EmailSendAndReceive.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+d:\VS2010\Projects\PowerCalendar\PowerCalendar\obj\x86\Debug\PowerCalendar.Form1.resources
+d:\VS2010\Projects\PowerCalendar\PowerCalendar\obj\x86\Debug\PowerCalendar.Properties.Resources.resources
+d:\VS2010\Projects\PowerCalendar\PowerCalendar\obj\x86\Debug\PowerCalendar.csproj.GenerateResource.Cache
+d:\VS2010\Projects\PowerCalendar\PowerCalendar\bin\Debug\PowerCalendar.exe.config
+d:\VS2010\Projects\PowerCalendar\PowerCalendar\bin\Debug\PowerCalendar.exe
+d:\VS2010\Projects\PowerCalendar\PowerCalendar\bin\Debug\PowerCalendar.pdb
+d:\VS2010\Projects\PowerCalendar\PowerCalendar\obj\x86\Debug\PowerCalendar.exe
+d:\VS2010\Projects\PowerCalendar\PowerCalendar\obj\x86\Debug\PowerCalendar.pdb
+D:\VS2010\Projects\PowerCalendar\PowerCalendar\obj\x86\Debug\PowerCalendar.csprojResolveAssemblyReference.cache

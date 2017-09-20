@@ -1,0 +1,4 @@
+d:\VS2010\Projects\useReference\useReference\bin\Debug\useReference.exe
+d:\VS2010\Projects\useReference\useReference\bin\Debug\useReference.pdb
+d:\VS2010\Projects\useReference\useReference\obj\x86\Debug\useReference.exe
+d:\VS2010\Projects\useReference\useReference\obj\x86\Debug\useReference.pdb

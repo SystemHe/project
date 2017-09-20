@@ -1,0 +1,7 @@
+d:\VS2010\Projects\SCFile\SCFile\bin\Debug\SCFile.exe
+d:\VS2010\Projects\SCFile\SCFile\bin\Debug\SCFile.pdb
+d:\VS2010\Projects\SCFile\SCFile\obj\x86\Debug\SCFile.Form1.resources
+d:\VS2010\Projects\SCFile\SCFile\obj\x86\Debug\SCFile.Properties.Resources.resources
+d:\VS2010\Projects\SCFile\SCFile\obj\x86\Debug\SCFile.csproj.GenerateResource.Cache
+d:\VS2010\Projects\SCFile\SCFile\obj\x86\Debug\SCFile.exe
+d:\VS2010\Projects\SCFile\SCFile\obj\x86\Debug\SCFile.pdb

@@ -1,0 +1,4 @@
+d:\VS2010\Projects\UseGotoDemo\UseGotoDemo\bin\Debug\UseGotoDemo.exe
+d:\VS2010\Projects\UseGotoDemo\UseGotoDemo\bin\Debug\UseGotoDemo.pdb
+d:\VS2010\Projects\UseGotoDemo\UseGotoDemo\obj\x86\Debug\UseGotoDemo.exe
+d:\VS2010\Projects\UseGotoDemo\UseGotoDemo\obj\x86\Debug\UseGotoDemo.pdb

@@ -1,0 +1,7 @@
+d:\VS2010\Projects\ChangeColorDemo\ChangeColorDemo\bin\Debug\ChangeColorDemo.exe
+d:\VS2010\Projects\ChangeColorDemo\ChangeColorDemo\bin\Debug\ChangeColorDemo.pdb
+d:\VS2010\Projects\ChangeColorDemo\ChangeColorDemo\obj\x86\Debug\ChangeColorDemo.Form1.resources
+d:\VS2010\Projects\ChangeColorDemo\ChangeColorDemo\obj\x86\Debug\ChangeColorDemo.Properties.Resources.resources
+d:\VS2010\Projects\ChangeColorDemo\ChangeColorDemo\obj\x86\Debug\ChangeColorDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\ChangeColorDemo\ChangeColorDemo\obj\x86\Debug\ChangeColorDemo.exe
+d:\VS2010\Projects\ChangeColorDemo\ChangeColorDemo\obj\x86\Debug\ChangeColorDemo.pdb

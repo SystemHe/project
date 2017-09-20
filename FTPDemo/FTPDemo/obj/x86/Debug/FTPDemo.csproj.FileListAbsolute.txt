@@ -1,0 +1,7 @@
+d:\VS2010\Projects\FTPDemo\FTPDemo\bin\Debug\FTPDemo.exe
+d:\VS2010\Projects\FTPDemo\FTPDemo\bin\Debug\FTPDemo.pdb
+d:\VS2010\Projects\FTPDemo\FTPDemo\obj\x86\Debug\FTPDemo.frmMain.resources
+d:\VS2010\Projects\FTPDemo\FTPDemo\obj\x86\Debug\FTPDemo.Properties.Resources.resources
+d:\VS2010\Projects\FTPDemo\FTPDemo\obj\x86\Debug\FTPDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\FTPDemo\FTPDemo\obj\x86\Debug\FTPDemo.exe
+d:\VS2010\Projects\FTPDemo\FTPDemo\obj\x86\Debug\FTPDemo.pdb

@@ -1,0 +1,7 @@
+d:\VS2010\Projects\ShowImageByForm\ShowImageByForm\bin\Debug\ShowImageByForm.exe
+d:\VS2010\Projects\ShowImageByForm\ShowImageByForm\bin\Debug\ShowImageByForm.pdb
+d:\VS2010\Projects\ShowImageByForm\ShowImageByForm\obj\x86\Debug\ShowImageByForm.Form1.resources
+d:\VS2010\Projects\ShowImageByForm\ShowImageByForm\obj\x86\Debug\ShowImageByForm.Properties.Resources.resources
+d:\VS2010\Projects\ShowImageByForm\ShowImageByForm\obj\x86\Debug\ShowImageByForm.csproj.GenerateResource.Cache
+d:\VS2010\Projects\ShowImageByForm\ShowImageByForm\obj\x86\Debug\ShowImageByForm.exe
+d:\VS2010\Projects\ShowImageByForm\ShowImageByForm\obj\x86\Debug\ShowImageByForm.pdb

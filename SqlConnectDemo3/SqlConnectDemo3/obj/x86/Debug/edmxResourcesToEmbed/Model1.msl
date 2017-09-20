@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="testModelStoreContainer" CdmEntityContainer="testEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="testModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="部门信息">
+      <EntityTypeMapping TypeName="testModel.部门信息">
+        <MappingFragment StoreEntitySet="部门信息">
+          <ScalarProperty Name="部门编号" ColumnName="部门编号" />
+          <ScalarProperty Name="部门名称" ColumnName="部门名称" />
+          <ScalarProperty Name="员工编号" ColumnName="员工编号" />
+          <ScalarProperty Name="公司编号" ColumnName="公司编号" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="公司信息">
+      <EntityTypeMapping TypeName="testModel.公司信息">
+        <MappingFragment StoreEntitySet="公司信息">
+          <ScalarProperty Name="公司编号" ColumnName="公司编号" />
+          <ScalarProperty Name="公司名称" ColumnName="公司名称" />
+          <ScalarProperty Name="公司部门" ColumnName="公司部门" />
+          <ScalarProperty Name="员工" ColumnName="员工" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="员工信息">
+      <EntityTypeMapping TypeName="testModel.员工信息">
+        <MappingFragment StoreEntitySet="员工信息">
+          <ScalarProperty Name="员工编号" ColumnName="员工编号" />
+          <ScalarProperty Name="员工姓名" ColumnName="员工姓名" />
+          <ScalarProperty Name="性别" ColumnName="性别" />
+          <ScalarProperty Name="年龄" ColumnName="年龄" />
+          <ScalarProperty Name="电话" ColumnName="电话" />
+          <ScalarProperty Name="地址" ColumnName="地址" />
+          <ScalarProperty Name="邮箱" ColumnName="邮箱" />
+          <ScalarProperty Name="员工状态" ColumnName="员工状态" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

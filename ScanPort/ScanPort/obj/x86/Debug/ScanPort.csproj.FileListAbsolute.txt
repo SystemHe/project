@@ -1,0 +1,7 @@
+d:\VS2010\Projects\ScanPort\ScanPort\bin\Debug\ScanPort.exe
+d:\VS2010\Projects\ScanPort\ScanPort\bin\Debug\ScanPort.pdb
+d:\VS2010\Projects\ScanPort\ScanPort\obj\x86\Debug\ScanPort.Form1.resources
+d:\VS2010\Projects\ScanPort\ScanPort\obj\x86\Debug\ScanPort.Properties.Resources.resources
+d:\VS2010\Projects\ScanPort\ScanPort\obj\x86\Debug\ScanPort.csproj.GenerateResource.Cache
+d:\VS2010\Projects\ScanPort\ScanPort\obj\x86\Debug\ScanPort.exe
+d:\VS2010\Projects\ScanPort\ScanPort\obj\x86\Debug\ScanPort.pdb

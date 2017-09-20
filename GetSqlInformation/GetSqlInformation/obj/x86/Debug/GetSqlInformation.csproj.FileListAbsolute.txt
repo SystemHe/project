@@ -1,0 +1,12 @@
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\bin\Debug\GetSqlInformation.exe
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\bin\Debug\GetSqlInformation.pdb
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\Interop.SQLDMO.dll
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.csproj.ResolveComReference.cache
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.frmMain.resources
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.Properties.Resources.resources
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.csproj.GenerateResource.Cache
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.exe
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.pdb
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.frmAppend.resources
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.frmDataExport.resources
+d:\VS2010\Projects\GetSqlInformation\GetSqlInformation\obj\x86\Debug\GetSqlInformation.frmOutData.resources

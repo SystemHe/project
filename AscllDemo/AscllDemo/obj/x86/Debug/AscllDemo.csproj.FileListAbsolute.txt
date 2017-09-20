@@ -1,0 +1,11 @@
+d:\VS2010\Projects\AscllDemo\AscllDemo\bin\Debug\AscllDemo.exe
+d:\VS2010\Projects\AscllDemo\AscllDemo\bin\Debug\AscllDemo.pdb
+d:\VS2010\Projects\AscllDemo\AscllDemo\obj\x86\Debug\AscllDemo.Form1.resources
+d:\VS2010\Projects\AscllDemo\AscllDemo\obj\x86\Debug\AscllDemo.Properties.Resources.resources
+d:\VS2010\Projects\AscllDemo\AscllDemo\obj\x86\Debug\AscllDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\AscllDemo\AscllDemo\obj\x86\Debug\AscllDemo.exe
+d:\VS2010\Projects\AscllDemo\AscllDemo\obj\x86\Debug\AscllDemo.pdb
+d:\VS2010\Projects\AscllDemo\AscllDemo\bin\Debug\ChnCharInfo.dll
+d:\VS2010\Projects\AscllDemo\AscllDemo\bin\Debug\ChnCharInfo.xml
+d:\VS2010\Projects\AscllDemo\AscllDemo\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+d:\VS2010\Projects\AscllDemo\AscllDemo\obj\x86\Debug\AscllDemo.csprojResolveAssemblyReference.cache

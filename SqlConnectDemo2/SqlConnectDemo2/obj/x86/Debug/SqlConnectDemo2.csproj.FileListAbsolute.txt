@@ -1,0 +1,7 @@
+d:\VS2010\Projects\SqlConnectDemo2\SqlConnectDemo2\bin\Debug\SqlConnectDemo2.exe
+d:\VS2010\Projects\SqlConnectDemo2\SqlConnectDemo2\bin\Debug\SqlConnectDemo2.pdb
+d:\VS2010\Projects\SqlConnectDemo2\SqlConnectDemo2\obj\x86\Debug\SqlConnectDemo2.Form1.resources
+d:\VS2010\Projects\SqlConnectDemo2\SqlConnectDemo2\obj\x86\Debug\SqlConnectDemo2.Properties.Resources.resources
+d:\VS2010\Projects\SqlConnectDemo2\SqlConnectDemo2\obj\x86\Debug\SqlConnectDemo2.csproj.GenerateResource.Cache
+d:\VS2010\Projects\SqlConnectDemo2\SqlConnectDemo2\obj\x86\Debug\SqlConnectDemo2.exe
+d:\VS2010\Projects\SqlConnectDemo2\SqlConnectDemo2\obj\x86\Debug\SqlConnectDemo2.pdb

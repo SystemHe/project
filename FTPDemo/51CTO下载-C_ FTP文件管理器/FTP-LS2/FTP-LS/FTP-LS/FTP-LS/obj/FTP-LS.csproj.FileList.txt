@@ -1,0 +1,9 @@
+obj\Debug\FTP-LS.exe
+obj\Debug\FTP-LS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FTP_LS.frmMain.resources
+obj\Debug\FTP_LS.frmNewFolder.resources
+obj\Debug\FTP_LS.Properties.Resources.resources
+obj\Debug\FTP-LS.csproj.GenerateResource.Cache
+bin\Debug\FTP-LS.exe
+bin\Debug\FTP-LS.pdb

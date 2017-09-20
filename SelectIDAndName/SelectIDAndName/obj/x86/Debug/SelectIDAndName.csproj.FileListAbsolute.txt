@@ -1,0 +1,4 @@
+d:\VS2010\Projects\SelectIDAndName\SelectIDAndName\bin\Debug\SelectIDAndName.exe
+d:\VS2010\Projects\SelectIDAndName\SelectIDAndName\bin\Debug\SelectIDAndName.pdb
+d:\VS2010\Projects\SelectIDAndName\SelectIDAndName\obj\x86\Debug\SelectIDAndName.exe
+d:\VS2010\Projects\SelectIDAndName\SelectIDAndName\obj\x86\Debug\SelectIDAndName.pdb

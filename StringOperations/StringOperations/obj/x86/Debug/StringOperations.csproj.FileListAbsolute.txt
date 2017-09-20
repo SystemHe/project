@@ -1,0 +1,4 @@
+d:\VS2010\Projects\StringOperations\StringOperations\bin\Debug\StringOperations.exe
+d:\VS2010\Projects\StringOperations\StringOperations\bin\Debug\StringOperations.pdb
+d:\VS2010\Projects\StringOperations\StringOperations\obj\x86\Debug\StringOperations.exe
+d:\VS2010\Projects\StringOperations\StringOperations\obj\x86\Debug\StringOperations.pdb

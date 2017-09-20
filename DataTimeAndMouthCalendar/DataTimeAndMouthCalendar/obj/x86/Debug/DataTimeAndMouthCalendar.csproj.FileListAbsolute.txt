@@ -1,0 +1,8 @@
+d:\VS2010\Projects\DataTimeAndMouthCalendar\DataTimeAndMouthCalendar\bin\Debug\DataTimeAndMouthCalendar.exe
+d:\VS2010\Projects\DataTimeAndMouthCalendar\DataTimeAndMouthCalendar\bin\Debug\DataTimeAndMouthCalendar.pdb
+d:\VS2010\Projects\DataTimeAndMouthCalendar\DataTimeAndMouthCalendar\obj\x86\Debug\DataTimeAndMouthCalendar.Form1.resources
+d:\VS2010\Projects\DataTimeAndMouthCalendar\DataTimeAndMouthCalendar\obj\x86\Debug\DataTimeAndMouthCalendar.Properties.Resources.resources
+d:\VS2010\Projects\DataTimeAndMouthCalendar\DataTimeAndMouthCalendar\obj\x86\Debug\DataTimeAndMouthCalendar.csproj.GenerateResource.Cache
+d:\VS2010\Projects\DataTimeAndMouthCalendar\DataTimeAndMouthCalendar\obj\x86\Debug\DataTimeAndMouthCalendar.exe
+d:\VS2010\Projects\DataTimeAndMouthCalendar\DataTimeAndMouthCalendar\obj\x86\Debug\DataTimeAndMouthCalendar.pdb
+d:\VS2010\Projects\DataTimeAndMouthCalendar\DataTimeAndMouthCalendar\obj\x86\Debug\DataTimeAndMouthCalendar.Form2.resources

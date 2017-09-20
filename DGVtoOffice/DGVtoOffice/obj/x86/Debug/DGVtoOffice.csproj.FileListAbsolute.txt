@@ -1,0 +1,8 @@
+d:\VS2010\Projects\DGVtoOffice\DGVtoOffice\bin\Debug\DGVtoOffice.exe
+d:\VS2010\Projects\DGVtoOffice\DGVtoOffice\bin\Debug\DGVtoOffice.pdb
+d:\VS2010\Projects\DGVtoOffice\DGVtoOffice\obj\x86\Debug\DGVtoOffice.Form1.resources
+d:\VS2010\Projects\DGVtoOffice\DGVtoOffice\obj\x86\Debug\DGVtoOffice.Properties.Resources.resources
+d:\VS2010\Projects\DGVtoOffice\DGVtoOffice\obj\x86\Debug\DGVtoOffice.csproj.GenerateResource.Cache
+d:\VS2010\Projects\DGVtoOffice\DGVtoOffice\obj\x86\Debug\DGVtoOffice.exe
+d:\VS2010\Projects\DGVtoOffice\DGVtoOffice\obj\x86\Debug\DGVtoOffice.pdb
+D:\VS2010\Projects\DGVtoOffice\DGVtoOffice\obj\x86\Debug\DGVtoOffice.csprojResolveAssemblyReference.cache

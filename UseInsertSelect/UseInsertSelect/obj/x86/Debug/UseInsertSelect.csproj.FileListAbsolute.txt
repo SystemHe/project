@@ -1,0 +1,7 @@
+d:\VS2010\Projects\UseInsertSelect\UseInsertSelect\obj\x86\Debug\UseInsertSelect.Form1.resources
+d:\VS2010\Projects\UseInsertSelect\UseInsertSelect\obj\x86\Debug\UseInsertSelect.Properties.Resources.resources
+d:\VS2010\Projects\UseInsertSelect\UseInsertSelect\obj\x86\Debug\UseInsertSelect.csproj.GenerateResource.Cache
+d:\VS2010\Projects\UseInsertSelect\UseInsertSelect\bin\Debug\UseInsertSelect.exe
+d:\VS2010\Projects\UseInsertSelect\UseInsertSelect\bin\Debug\UseInsertSelect.pdb
+d:\VS2010\Projects\UseInsertSelect\UseInsertSelect\obj\x86\Debug\UseInsertSelect.exe
+d:\VS2010\Projects\UseInsertSelect\UseInsertSelect\obj\x86\Debug\UseInsertSelect.pdb

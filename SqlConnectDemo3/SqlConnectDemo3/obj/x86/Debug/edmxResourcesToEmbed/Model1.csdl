@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="testModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="testEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="testModel.sysdiagrams" />
+    <EntitySet Name="部门信息" EntityType="testModel.部门信息" />
+    <EntitySet Name="公司信息" EntityType="testModel.公司信息" />
+    <EntitySet Name="员工信息" EntityType="testModel.员工信息" />
+    <AssociationSet Name="FK_部门信息_员工信息" Association="testModel.FK_部门信息_员工信息">
+      <End Role="员工信息" EntitySet="员工信息" />
+      <End Role="部门信息" EntitySet="部门信息" />
+    </AssociationSet>
+    <AssociationSet Name="FK_公司信息_部门信息" Association="testModel.FK_公司信息_部门信息">
+      <End Role="部门信息" EntitySet="部门信息" />
+      <End Role="公司信息" EntitySet="公司信息" />
+    </AssociationSet>
+    <AssociationSet Name="FK_公司信息_员工信息" Association="testModel.FK_公司信息_员工信息">
+      <End Role="员工信息" EntitySet="员工信息" />
+      <End Role="公司信息" EntitySet="公司信息" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="部门信息">
+    <Key>
+      <PropertyRef Name="部门编号" />
+    </Key>
+    <Property Name="部门编号" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="部门名称" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="员工编号" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="公司编号" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <NavigationProperty Name="员工信息" Relationship="testModel.FK_部门信息_员工信息" FromRole="部门信息" ToRole="员工信息" />
+    <NavigationProperty Name="公司信息" Relationship="testModel.FK_公司信息_部门信息" FromRole="部门信息" ToRole="公司信息" />
+  </EntityType>
+  <EntityType Name="公司信息">
+    <Key>
+      <PropertyRef Name="公司编号" />
+    </Key>
+    <Property Name="公司编号" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="公司名称" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="公司部门" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="员工" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <NavigationProperty Name="部门信息" Relationship="testModel.FK_公司信息_部门信息" FromRole="公司信息" ToRole="部门信息" />
+    <NavigationProperty Name="员工信息" Relationship="testModel.FK_公司信息_员工信息" FromRole="公司信息" ToRole="员工信息" />
+  </EntityType>
+  <EntityType Name="员工信息">
+    <Key>
+      <PropertyRef Name="员工编号" />
+    </Key>
+    <Property Name="员工编号" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="员工姓名" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="性别" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="年龄" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="电话" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="地址" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="邮箱" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="员工状态" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <NavigationProperty Name="部门信息" Relationship="testModel.FK_部门信息_员工信息" FromRole="员工信息" ToRole="部门信息" />
+    <NavigationProperty Name="公司信息" Relationship="testModel.FK_公司信息_员工信息" FromRole="员工信息" ToRole="公司信息" />
+  </EntityType>
+  <Association Name="FK_部门信息_员工信息">
+    <End Role="员工信息" Type="testModel.员工信息" Multiplicity="0..1" />
+    <End Role="部门信息" Type="testModel.部门信息" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="员工信息">
+        <PropertyRef Name="员工编号" />
+      </Principal>
+      <Dependent Role="部门信息">
+        <PropertyRef Name="员工编号" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_公司信息_部门信息">
+    <End Role="部门信息" Type="testModel.部门信息" Multiplicity="0..1" />
+    <End Role="公司信息" Type="testModel.公司信息" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="部门信息">
+        <PropertyRef Name="部门编号" />
+      </Principal>
+      <Dependent Role="公司信息">
+        <PropertyRef Name="公司部门" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_公司信息_员工信息">
+    <End Role="员工信息" Type="testModel.员工信息" Multiplicity="0..1" />
+    <End Role="公司信息" Type="testModel.公司信息" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="员工信息">
+        <PropertyRef Name="员工编号" />
+      </Principal>
+      <Dependent Role="公司信息">
+        <PropertyRef Name="员工" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

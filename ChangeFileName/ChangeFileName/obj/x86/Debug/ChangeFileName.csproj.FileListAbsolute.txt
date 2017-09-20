@@ -1,0 +1,10 @@
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\bin\Debug\ChangeFileName.exe
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\bin\Debug\ChangeFileName.pdb
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\bin\Debug\Microsoft.Office.Interop.Word.dll
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\bin\Debug\Microsoft.Office.Interop.Word.xml
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\obj\x86\Debug\ChangeFileName.Form1.resources
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\obj\x86\Debug\ChangeFileName.Properties.Resources.resources
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\obj\x86\Debug\ChangeFileName.csproj.GenerateResource.Cache
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\obj\x86\Debug\ChangeFileName.exe
+d:\VS2010\Projects\ChangeFileName\ChangeFileName\obj\x86\Debug\ChangeFileName.pdb
+D:\VS2010\Projects\ChangeFileName\ChangeFileName\obj\x86\Debug\ChangeFileName.csprojResolveAssemblyReference.cache

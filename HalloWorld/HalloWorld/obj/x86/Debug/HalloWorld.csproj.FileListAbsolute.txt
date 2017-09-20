@@ -1,0 +1,5 @@
+d:\VS2010\Projects\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe
+d:\VS2010\Projects\HalloWorld\HalloWorld\bin\Debug\HalloWorld.pdb
+d:\VS2010\Projects\HalloWorld\HalloWorld\obj\x86\Debug\HalloWorld.exe
+d:\VS2010\Projects\HalloWorld\HalloWorld\obj\x86\Debug\HalloWorld.pdb
+D:\VS2010\Projects\HalloWorld\HalloWorld\obj\x86\Debug\HalloWorld.csprojResolveAssemblyReference.cache

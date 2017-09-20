@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FTP-LS">
+</Property><Property Name="解决方案文件" Value="D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS.sln">
+</Property><Property Name="用户选项文件" Value="D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS.suo">
+</Property><Property Name="Date" Value="2017年8月23日">
+</Property><Property Name="Time" Value="15:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FTP-LS.sln" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FTP-LS.suo" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS.suo">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTP-LS.csproj" Description="项目文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTP-LS.csproj">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTP-LS.csproj.user" Description="项目用户文件成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTP-LS.csproj.user">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\frmMain.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\frmMain.Designer.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\frmNewFolder.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\frmNewFolder.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\frmNewFolder.Designer.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\frmNewFolder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPClass\BaseClass.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPClass\BaseClass.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\Program.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\Program.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\Properties\Settings.settings" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\ftp.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\ftp.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\ww.png" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\ww.png">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\上传.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\上传.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\下载.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\下载.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\全选.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\全选.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\删除.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\删除.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\剪切.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\剪切.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\复制.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\复制.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\打开.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\打开.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\新建.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\新建.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\清空.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\清空.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\粘贴.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\粘贴.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\退出.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\退出.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTPImages\重命名.ico" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\FTPImages\重命名.ico">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\frmMain.resx" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\frmNewFolder.resx" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\frmNewFolder.resx">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\Properties\Resources.resx" Description="文件已成功备份为 D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\Backup\FTP-LS\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="FTP-LS" Source="FTP-LS\FTP-LS.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTP-LS.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="FTP-LS" Source="FTP-LS\FTP-LS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FTP-LS.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="FTP-LS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FTP-LS" Source="FTP-LS\FTP-LS.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,4 @@
+d:\VS2010\Projects\CProByNote\CProByNote\bin\Debug\CProByNote.exe
+d:\VS2010\Projects\CProByNote\CProByNote\bin\Debug\CProByNote.pdb
+d:\VS2010\Projects\CProByNote\CProByNote\obj\x86\Debug\CProByNote.exe
+d:\VS2010\Projects\CProByNote\CProByNote\obj\x86\Debug\CProByNote.pdb

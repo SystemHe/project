@@ -1,0 +1,8 @@
+d:\VS2010\Projects\ShowDialogPBar\ShowDialogPBar\obj\x86\Debug\ShowDialogPBar.Form1.resources
+d:\VS2010\Projects\ShowDialogPBar\ShowDialogPBar\obj\x86\Debug\ShowDialogPBar.Properties.Resources.resources
+d:\VS2010\Projects\ShowDialogPBar\ShowDialogPBar\obj\x86\Debug\ShowDialogPBar.csproj.GenerateResource.Cache
+d:\VS2010\Projects\ShowDialogPBar\ShowDialogPBar\bin\Debug\ShowDialogPBar.exe
+d:\VS2010\Projects\ShowDialogPBar\ShowDialogPBar\bin\Debug\ShowDialogPBar.pdb
+d:\VS2010\Projects\ShowDialogPBar\ShowDialogPBar\obj\x86\Debug\ShowDialogPBar.exe
+d:\VS2010\Projects\ShowDialogPBar\ShowDialogPBar\obj\x86\Debug\ShowDialogPBar.pdb
+D:\VS2010\Projects\ShowDialogPBar\ShowDialogPBar\obj\x86\Debug\ShowDialogPBar.Form2.resources

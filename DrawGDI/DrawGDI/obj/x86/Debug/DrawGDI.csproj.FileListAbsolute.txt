@@ -1,0 +1,7 @@
+d:\VS2010\Projects\DrawGDI\DrawGDI\bin\Debug\DrawGDI.exe
+d:\VS2010\Projects\DrawGDI\DrawGDI\bin\Debug\DrawGDI.pdb
+d:\VS2010\Projects\DrawGDI\DrawGDI\obj\x86\Debug\DrawGDI.Form1.resources
+d:\VS2010\Projects\DrawGDI\DrawGDI\obj\x86\Debug\DrawGDI.Properties.Resources.resources
+d:\VS2010\Projects\DrawGDI\DrawGDI\obj\x86\Debug\DrawGDI.csproj.GenerateResource.Cache
+d:\VS2010\Projects\DrawGDI\DrawGDI\obj\x86\Debug\DrawGDI.exe
+d:\VS2010\Projects\DrawGDI\DrawGDI\obj\x86\Debug\DrawGDI.pdb

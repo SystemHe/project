@@ -1,0 +1,7 @@
+d:\VS2010\Projects\ClockAlarmDemo\ClockAlarmDemo\bin\Debug\ClockAlarmDemo.exe
+d:\VS2010\Projects\ClockAlarmDemo\ClockAlarmDemo\bin\Debug\ClockAlarmDemo.pdb
+d:\VS2010\Projects\ClockAlarmDemo\ClockAlarmDemo\obj\x86\Debug\ClockAlarmDemo.Form1.resources
+d:\VS2010\Projects\ClockAlarmDemo\ClockAlarmDemo\obj\x86\Debug\ClockAlarmDemo.Properties.Resources.resources
+d:\VS2010\Projects\ClockAlarmDemo\ClockAlarmDemo\obj\x86\Debug\ClockAlarmDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\ClockAlarmDemo\ClockAlarmDemo\obj\x86\Debug\ClockAlarmDemo.exe
+d:\VS2010\Projects\ClockAlarmDemo\ClockAlarmDemo\obj\x86\Debug\ClockAlarmDemo.pdb

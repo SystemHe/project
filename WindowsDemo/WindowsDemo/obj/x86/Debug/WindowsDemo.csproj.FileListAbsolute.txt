@@ -1,0 +1,9 @@
+d:\VS2010\Projects\WindowsDemo\WindowsDemo\bin\Debug\WindowsDemo.exe
+d:\VS2010\Projects\WindowsDemo\WindowsDemo\bin\Debug\WindowsDemo.pdb
+d:\VS2010\Projects\WindowsDemo\WindowsDemo\obj\x86\Debug\WindowsDemo.Form1.resources
+d:\VS2010\Projects\WindowsDemo\WindowsDemo\obj\x86\Debug\WindowsDemo.Properties.Resources.resources
+d:\VS2010\Projects\WindowsDemo\WindowsDemo\obj\x86\Debug\WindowsDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\WindowsDemo\WindowsDemo\obj\x86\Debug\WindowsDemo.exe
+d:\VS2010\Projects\WindowsDemo\WindowsDemo\obj\x86\Debug\WindowsDemo.pdb
+D:\VS2010\Projects\WindowsDemo\WindowsDemo\obj\x86\Debug\WindowsDemo.csprojResolveAssemblyReference.cache
+D:\VS2010\Projects\WindowsDemo\WindowsDemo\obj\x86\Debug\WindowsDemo.Form2.resources

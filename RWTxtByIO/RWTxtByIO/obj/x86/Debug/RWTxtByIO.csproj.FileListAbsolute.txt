@@ -1,0 +1,8 @@
+d:\VS2010\Projects\RWTxtByIO\RWTxtByIO\bin\Debug\RWTxtByIO.exe
+d:\VS2010\Projects\RWTxtByIO\RWTxtByIO\bin\Debug\RWTxtByIO.pdb
+d:\VS2010\Projects\RWTxtByIO\RWTxtByIO\obj\x86\Debug\RWTxtByIO.Form1.resources
+d:\VS2010\Projects\RWTxtByIO\RWTxtByIO\obj\x86\Debug\RWTxtByIO.Properties.Resources.resources
+d:\VS2010\Projects\RWTxtByIO\RWTxtByIO\obj\x86\Debug\RWTxtByIO.csproj.GenerateResource.Cache
+d:\VS2010\Projects\RWTxtByIO\RWTxtByIO\obj\x86\Debug\RWTxtByIO.exe
+d:\VS2010\Projects\RWTxtByIO\RWTxtByIO\obj\x86\Debug\RWTxtByIO.pdb
+D:\VS2010\Projects\RWTxtByIO\RWTxtByIO\obj\x86\Debug\RWTxtByIO.csprojResolveAssemblyReference.cache

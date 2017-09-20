@@ -1,0 +1,7 @@
+d:\VS2010\Projects\AutoID\AutoID\bin\Debug\AutoID.exe
+d:\VS2010\Projects\AutoID\AutoID\bin\Debug\AutoID.pdb
+d:\VS2010\Projects\AutoID\AutoID\obj\x86\Debug\AutoID.Form1.resources
+d:\VS2010\Projects\AutoID\AutoID\obj\x86\Debug\AutoID.Properties.Resources.resources
+d:\VS2010\Projects\AutoID\AutoID\obj\x86\Debug\AutoID.csproj.GenerateResource.Cache
+d:\VS2010\Projects\AutoID\AutoID\obj\x86\Debug\AutoID.exe
+d:\VS2010\Projects\AutoID\AutoID\obj\x86\Debug\AutoID.pdb

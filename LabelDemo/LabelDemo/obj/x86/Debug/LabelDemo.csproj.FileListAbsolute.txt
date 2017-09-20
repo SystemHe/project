@@ -1,0 +1,7 @@
+d:\VS2010\Projects\LabelDemo\LabelDemo\obj\x86\Debug\LabelDemo.LabelDemo.resources
+d:\VS2010\Projects\LabelDemo\LabelDemo\obj\x86\Debug\LabelDemo.Properties.Resources.resources
+d:\VS2010\Projects\LabelDemo\LabelDemo\obj\x86\Debug\LabelDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\LabelDemo\LabelDemo\bin\Debug\LabelDemo.exe
+d:\VS2010\Projects\LabelDemo\LabelDemo\bin\Debug\LabelDemo.pdb
+d:\VS2010\Projects\LabelDemo\LabelDemo\obj\x86\Debug\LabelDemo.exe
+d:\VS2010\Projects\LabelDemo\LabelDemo\obj\x86\Debug\LabelDemo.pdb

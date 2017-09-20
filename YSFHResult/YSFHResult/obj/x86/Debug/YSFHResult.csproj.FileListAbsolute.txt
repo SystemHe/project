@@ -1,0 +1,4 @@
+d:\VS2010\Projects\YSFHResult\YSFHResult\bin\Debug\YSFHResult.exe
+d:\VS2010\Projects\YSFHResult\YSFHResult\bin\Debug\YSFHResult.pdb
+d:\VS2010\Projects\YSFHResult\YSFHResult\obj\x86\Debug\YSFHResult.exe
+d:\VS2010\Projects\YSFHResult\YSFHResult\obj\x86\Debug\YSFHResult.pdb

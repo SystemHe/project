@@ -1,0 +1,7 @@
+d:\VS2010\Projects\GetYearDemo\GetYearDemo\bin\Debug\GetYearDemo.exe
+d:\VS2010\Projects\GetYearDemo\GetYearDemo\bin\Debug\GetYearDemo.pdb
+d:\VS2010\Projects\GetYearDemo\GetYearDemo\obj\x86\Debug\GetYearDemo.Form1.resources
+d:\VS2010\Projects\GetYearDemo\GetYearDemo\obj\x86\Debug\GetYearDemo.Properties.Resources.resources
+d:\VS2010\Projects\GetYearDemo\GetYearDemo\obj\x86\Debug\GetYearDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\GetYearDemo\GetYearDemo\obj\x86\Debug\GetYearDemo.exe
+d:\VS2010\Projects\GetYearDemo\GetYearDemo\obj\x86\Debug\GetYearDemo.pdb

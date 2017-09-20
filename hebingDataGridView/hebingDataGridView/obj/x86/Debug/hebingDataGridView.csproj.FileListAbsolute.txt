@@ -1,0 +1,7 @@
+d:\VS2010\Projects\hebingDataGridView\hebingDataGridView\obj\x86\Debug\hebingDataGridView.Form1.resources
+d:\VS2010\Projects\hebingDataGridView\hebingDataGridView\obj\x86\Debug\hebingDataGridView.Properties.Resources.resources
+d:\VS2010\Projects\hebingDataGridView\hebingDataGridView\obj\x86\Debug\hebingDataGridView.csproj.GenerateResource.Cache
+d:\VS2010\Projects\hebingDataGridView\hebingDataGridView\bin\Debug\hebingDataGridView.exe
+d:\VS2010\Projects\hebingDataGridView\hebingDataGridView\bin\Debug\hebingDataGridView.pdb
+d:\VS2010\Projects\hebingDataGridView\hebingDataGridView\obj\x86\Debug\hebingDataGridView.exe
+d:\VS2010\Projects\hebingDataGridView\hebingDataGridView\obj\x86\Debug\hebingDataGridView.pdb

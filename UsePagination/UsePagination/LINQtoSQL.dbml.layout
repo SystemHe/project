@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LINQtoSQL">
+  <DataContextMoniker Name="/LINQtoSQLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7d5648b2-03bf-4cd6-8c93-7461f5d4d72b" absoluteBounds="0.5, 0.5, 2, 2.3356245930989585">
+      <DataClassMoniker Name="/LINQtoSQLDataContext/员工信息" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3287fcb8-6967-49e8-aa9c-d2c28355758c" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.7756245930989585" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3ef55786-2ae2-41d0-bbc4-70d6ddb02418" absoluteBounds="3.25, 0.5, 2, 1.5715458170572916">
+      <DataClassMoniker Name="/LINQtoSQLDataContext/部门信息" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c7e1f83f-f910-4c6d-b779-4d2e529a3cc0" absoluteBounds="3.265, 0.96, 1.9700000000000002, 1.0115458170572915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 1.28577290852865); (3.25 : 1.28577290852865)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LINQtoSQLDataContext/员工信息/员工信息_部门信息" />
+      <nodes>
+        <classShapeMoniker Id="7d5648b2-03bf-4cd6-8c93-7461f5d4d72b" />
+        <classShapeMoniker Id="3ef55786-2ae2-41d0-bbc4-70d6ddb02418" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="04a65294-9147-4511-a8b9-7c2907f33b18" absoluteBounds="3.625, 2.375, 2, 1.5715458170572916">
+      <DataClassMoniker Name="/LINQtoSQLDataContext/公司信息" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cbc08229-40b2-47da-80c4-3176b8109711" absoluteBounds="3.6399999999999997, 2.835, 1.9700000000000002, 1.0115458170572915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.4375 : 2.07154581705729); (4.4375 : 2.375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LINQtoSQLDataContext/部门信息/部门信息_公司信息" />
+      <nodes>
+        <classShapeMoniker Id="3ef55786-2ae2-41d0-bbc4-70d6ddb02418" />
+        <classShapeMoniker Id="04a65294-9147-4511-a8b9-7c2907f33b18" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 2.60531229654948); (3.625 : 2.60531229654948)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LINQtoSQLDataContext/员工信息/员工信息_公司信息" />
+      <nodes>
+        <classShapeMoniker Id="7d5648b2-03bf-4cd6-8c93-7461f5d4d72b" />
+        <classShapeMoniker Id="04a65294-9147-4511-a8b9-7c2907f33b18" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

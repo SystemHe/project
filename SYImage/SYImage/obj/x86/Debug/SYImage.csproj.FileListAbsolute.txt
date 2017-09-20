@@ -1,0 +1,7 @@
+d:\VS2010\Projects\SYImage\SYImage\obj\x86\Debug\SYImage.Form1.resources
+d:\VS2010\Projects\SYImage\SYImage\obj\x86\Debug\SYImage.Properties.Resources.resources
+d:\VS2010\Projects\SYImage\SYImage\obj\x86\Debug\SYImage.csproj.GenerateResource.Cache
+d:\VS2010\Projects\SYImage\SYImage\bin\Debug\SYImage.exe
+d:\VS2010\Projects\SYImage\SYImage\bin\Debug\SYImage.pdb
+d:\VS2010\Projects\SYImage\SYImage\obj\x86\Debug\SYImage.exe
+d:\VS2010\Projects\SYImage\SYImage\obj\x86\Debug\SYImage.pdb

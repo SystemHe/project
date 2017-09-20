@@ -1,0 +1,9 @@
+d:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\bin\Debug\UseLINQtoSql.exe.config
+d:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\bin\Debug\UseLINQtoSql.exe
+d:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\bin\Debug\UseLINQtoSql.pdb
+d:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\obj\x86\Debug\UseLINQtoSql.Form1.resources
+d:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\obj\x86\Debug\UseLINQtoSql.Properties.Resources.resources
+d:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\obj\x86\Debug\UseLINQtoSql.csproj.GenerateResource.Cache
+d:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\obj\x86\Debug\UseLINQtoSql.exe
+d:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\obj\x86\Debug\UseLINQtoSql.pdb
+D:\VS2010\Projects\UseLINQtoSql\UseLINQtoSql\obj\x86\Debug\UseLINQtoSql.csprojResolveAssemblyReference.cache

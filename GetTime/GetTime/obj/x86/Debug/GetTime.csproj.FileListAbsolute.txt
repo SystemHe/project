@@ -1,0 +1,7 @@
+d:\VS2010\Projects\GetTime\GetTime\bin\Debug\GetTime.exe
+d:\VS2010\Projects\GetTime\GetTime\bin\Debug\GetTime.pdb
+d:\VS2010\Projects\GetTime\GetTime\obj\x86\Debug\GetTime.Form1.resources
+d:\VS2010\Projects\GetTime\GetTime\obj\x86\Debug\GetTime.Properties.Resources.resources
+d:\VS2010\Projects\GetTime\GetTime\obj\x86\Debug\GetTime.csproj.GenerateResource.Cache
+d:\VS2010\Projects\GetTime\GetTime\obj\x86\Debug\GetTime.exe
+d:\VS2010\Projects\GetTime\GetTime\obj\x86\Debug\GetTime.pdb

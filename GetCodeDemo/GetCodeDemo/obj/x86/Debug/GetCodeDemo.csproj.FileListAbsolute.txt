@@ -1,0 +1,7 @@
+d:\VS2010\Projects\GetCodeDemo\GetCodeDemo\bin\Debug\GetCodeDemo.exe
+d:\VS2010\Projects\GetCodeDemo\GetCodeDemo\bin\Debug\GetCodeDemo.pdb
+d:\VS2010\Projects\GetCodeDemo\GetCodeDemo\obj\x86\Debug\GetCodeDemo.Form1.resources
+d:\VS2010\Projects\GetCodeDemo\GetCodeDemo\obj\x86\Debug\GetCodeDemo.Properties.Resources.resources
+d:\VS2010\Projects\GetCodeDemo\GetCodeDemo\obj\x86\Debug\GetCodeDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\GetCodeDemo\GetCodeDemo\obj\x86\Debug\GetCodeDemo.exe
+d:\VS2010\Projects\GetCodeDemo\GetCodeDemo\obj\x86\Debug\GetCodeDemo.pdb

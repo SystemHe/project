@@ -1,0 +1,7 @@
+d:\VS2010\Projects\P2PChat\P2PChat\bin\Debug\P2PChat.exe
+d:\VS2010\Projects\P2PChat\P2PChat\bin\Debug\P2PChat.pdb
+d:\VS2010\Projects\P2PChat\P2PChat\obj\x86\Debug\P2PChat.Form1.resources
+d:\VS2010\Projects\P2PChat\P2PChat\obj\x86\Debug\P2PChat.Properties.Resources.resources
+d:\VS2010\Projects\P2PChat\P2PChat\obj\x86\Debug\P2PChat.csproj.GenerateResource.Cache
+d:\VS2010\Projects\P2PChat\P2PChat\obj\x86\Debug\P2PChat.exe
+d:\VS2010\Projects\P2PChat\P2PChat\obj\x86\Debug\P2PChat.pdb

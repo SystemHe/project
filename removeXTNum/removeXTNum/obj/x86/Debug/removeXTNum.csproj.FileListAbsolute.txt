@@ -1,0 +1,4 @@
+d:\VS2010\Projects\removeXTNum\removeXTNum\bin\Debug\removeXTNum.exe
+d:\VS2010\Projects\removeXTNum\removeXTNum\bin\Debug\removeXTNum.pdb
+d:\VS2010\Projects\removeXTNum\removeXTNum\obj\x86\Debug\removeXTNum.exe
+d:\VS2010\Projects\removeXTNum\removeXTNum\obj\x86\Debug\removeXTNum.pdb

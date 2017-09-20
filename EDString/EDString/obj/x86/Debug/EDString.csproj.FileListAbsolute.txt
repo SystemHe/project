@@ -1,0 +1,4 @@
+d:\VS2010\Projects\EDString\EDString\bin\Debug\EDString.exe
+d:\VS2010\Projects\EDString\EDString\bin\Debug\EDString.pdb
+d:\VS2010\Projects\EDString\EDString\obj\x86\Debug\EDString.exe
+d:\VS2010\Projects\EDString\EDString\obj\x86\Debug\EDString.pdb

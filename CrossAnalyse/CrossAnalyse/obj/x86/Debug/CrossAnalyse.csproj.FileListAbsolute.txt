@@ -1,0 +1,7 @@
+d:\VS2010\Projects\CrossAnalyse\CrossAnalyse\bin\Debug\CrossAnalyse.exe
+d:\VS2010\Projects\CrossAnalyse\CrossAnalyse\bin\Debug\CrossAnalyse.pdb
+d:\VS2010\Projects\CrossAnalyse\CrossAnalyse\obj\x86\Debug\CrossAnalyse.Form1.resources
+d:\VS2010\Projects\CrossAnalyse\CrossAnalyse\obj\x86\Debug\CrossAnalyse.Properties.Resources.resources
+d:\VS2010\Projects\CrossAnalyse\CrossAnalyse\obj\x86\Debug\CrossAnalyse.csproj.GenerateResource.Cache
+d:\VS2010\Projects\CrossAnalyse\CrossAnalyse\obj\x86\Debug\CrossAnalyse.exe
+d:\VS2010\Projects\CrossAnalyse\CrossAnalyse\obj\x86\Debug\CrossAnalyse.pdb

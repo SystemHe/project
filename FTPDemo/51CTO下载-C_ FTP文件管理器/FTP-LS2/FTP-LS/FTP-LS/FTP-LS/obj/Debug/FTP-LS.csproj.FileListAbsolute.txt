@@ -1,0 +1,8 @@
+D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS\obj\Debug\FTP-LS.exe
+D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS\obj\Debug\FTP-LS.pdb
+D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS\bin\Debug\FTP-LS.exe
+D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS\bin\Debug\FTP-LS.pdb
+D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS\obj\Debug\FTP_LS.frmMain.resources
+D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS\obj\Debug\FTP_LS.frmNewFolder.resources
+D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS\obj\Debug\FTP_LS.Properties.Resources.resources
+D:\VS2010\Projects\FTPDemo\51CTO下载-C_ FTP文件管理器\FTP-LS2\FTP-LS\FTP-LS\FTP-LS\obj\Debug\FTP-LS.csproj.GenerateResource.Cache

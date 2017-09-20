@@ -1,0 +1,7 @@
+d:\VS2010\Projects\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.exe
+d:\VS2010\Projects\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.pdb
+d:\VS2010\Projects\CalculatorDemo\CalculatorDemo\obj\x86\Debug\CalculatorDemo.Frm_Main.resources
+d:\VS2010\Projects\CalculatorDemo\CalculatorDemo\obj\x86\Debug\CalculatorDemo.Properties.Resources.resources
+d:\VS2010\Projects\CalculatorDemo\CalculatorDemo\obj\x86\Debug\CalculatorDemo.csproj.GenerateResource.Cache
+d:\VS2010\Projects\CalculatorDemo\CalculatorDemo\obj\x86\Debug\CalculatorDemo.exe
+d:\VS2010\Projects\CalculatorDemo\CalculatorDemo\obj\x86\Debug\CalculatorDemo.pdb

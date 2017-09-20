@@ -1,0 +1,7 @@
+d:\VS2010\Projects\HistoryMenu\HistoryMenu\bin\Debug\HistoryMenu.exe
+d:\VS2010\Projects\HistoryMenu\HistoryMenu\bin\Debug\HistoryMenu.pdb
+d:\VS2010\Projects\HistoryMenu\HistoryMenu\obj\x86\Debug\HistoryMenu.Form1.resources
+d:\VS2010\Projects\HistoryMenu\HistoryMenu\obj\x86\Debug\HistoryMenu.Properties.Resources.resources
+d:\VS2010\Projects\HistoryMenu\HistoryMenu\obj\x86\Debug\HistoryMenu.csproj.GenerateResource.Cache
+d:\VS2010\Projects\HistoryMenu\HistoryMenu\obj\x86\Debug\HistoryMenu.exe
+d:\VS2010\Projects\HistoryMenu\HistoryMenu\obj\x86\Debug\HistoryMenu.pdb

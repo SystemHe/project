@@ -1,0 +1,4 @@
+d:\VS2010\Projects\EightQueenDemo\EightQueenDemo\bin\Debug\EightQueenDemo.exe
+d:\VS2010\Projects\EightQueenDemo\EightQueenDemo\bin\Debug\EightQueenDemo.pdb
+d:\VS2010\Projects\EightQueenDemo\EightQueenDemo\obj\x86\Debug\EightQueenDemo.exe
+d:\VS2010\Projects\EightQueenDemo\EightQueenDemo\obj\x86\Debug\EightQueenDemo.pdb

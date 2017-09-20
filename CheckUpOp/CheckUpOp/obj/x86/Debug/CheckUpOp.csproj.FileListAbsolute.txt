@@ -1,0 +1,10 @@
+d:\VS2010\Projects\CheckUpOp\CheckUpOp\bin\Debug\CheckUpOp.exe
+d:\VS2010\Projects\CheckUpOp\CheckUpOp\bin\Debug\CheckUpOp.pdb
+d:\VS2010\Projects\CheckUpOp\CheckUpOp\obj\x86\Debug\CheckUpOp.Form1.resources
+d:\VS2010\Projects\CheckUpOp\CheckUpOp\obj\x86\Debug\CheckUpOp.Properties.Resources.resources
+d:\VS2010\Projects\CheckUpOp\CheckUpOp\obj\x86\Debug\CheckUpOp.csproj.GenerateResource.Cache
+d:\VS2010\Projects\CheckUpOp\CheckUpOp\obj\x86\Debug\CheckUpOp.exe
+d:\VS2010\Projects\CheckUpOp\CheckUpOp\obj\x86\Debug\CheckUpOp.pdb
+d:\VS2010\Projects\CheckUpOp\CheckUpOp\obj\x86\Debug\CheckUpOp.Form2.resources
+D:\VS2010\Projects\CheckUpOp\CheckUpOp\obj\x86\Debug\CheckUpOp.Form3.resources
+D:\VS2010\Projects\CheckUpOp\CheckUpOp\obj\x86\Debug\CheckUpOp.Form4.resources

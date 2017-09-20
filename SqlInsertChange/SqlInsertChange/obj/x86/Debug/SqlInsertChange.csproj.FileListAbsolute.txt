@@ -1,0 +1,7 @@
+d:\VS2010\Projects\SqlInsertChange\SqlInsertChange\bin\Debug\SqlInsertChange.exe
+d:\VS2010\Projects\SqlInsertChange\SqlInsertChange\bin\Debug\SqlInsertChange.pdb
+d:\VS2010\Projects\SqlInsertChange\SqlInsertChange\obj\x86\Debug\SqlInsertChange.Form1.resources
+d:\VS2010\Projects\SqlInsertChange\SqlInsertChange\obj\x86\Debug\SqlInsertChange.Properties.Resources.resources
+d:\VS2010\Projects\SqlInsertChange\SqlInsertChange\obj\x86\Debug\SqlInsertChange.csproj.GenerateResource.Cache
+d:\VS2010\Projects\SqlInsertChange\SqlInsertChange\obj\x86\Debug\SqlInsertChange.exe
+d:\VS2010\Projects\SqlInsertChange\SqlInsertChange\obj\x86\Debug\SqlInsertChange.pdb

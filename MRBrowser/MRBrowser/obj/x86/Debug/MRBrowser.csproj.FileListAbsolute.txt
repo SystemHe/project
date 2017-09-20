@@ -1,0 +1,7 @@
+d:\VS2010\Projects\MRBrowser\MRBrowser\bin\Debug\MRBrowser.exe
+d:\VS2010\Projects\MRBrowser\MRBrowser\bin\Debug\MRBrowser.pdb
+d:\VS2010\Projects\MRBrowser\MRBrowser\obj\x86\Debug\MRBrowser.Form1.resources
+d:\VS2010\Projects\MRBrowser\MRBrowser\obj\x86\Debug\MRBrowser.Properties.Resources.resources
+d:\VS2010\Projects\MRBrowser\MRBrowser\obj\x86\Debug\MRBrowser.csproj.GenerateResource.Cache
+d:\VS2010\Projects\MRBrowser\MRBrowser\obj\x86\Debug\MRBrowser.exe
+d:\VS2010\Projects\MRBrowser\MRBrowser\obj\x86\Debug\MRBrowser.pdb

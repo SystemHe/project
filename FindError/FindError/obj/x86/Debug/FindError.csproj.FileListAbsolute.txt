@@ -1,0 +1,4 @@
+d:\VS2010\Projects\FindError\FindError\bin\Debug\FindError.exe
+d:\VS2010\Projects\FindError\FindError\bin\Debug\FindError.pdb
+d:\VS2010\Projects\FindError\FindError\obj\x86\Debug\FindError.exe
+d:\VS2010\Projects\FindError\FindError\obj\x86\Debug\FindError.pdb
