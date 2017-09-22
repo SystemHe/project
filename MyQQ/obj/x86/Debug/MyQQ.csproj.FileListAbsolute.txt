@@ -1,0 +1,6 @@
+d:\VS2010\Projects\MyQQ\bin\Debug\MyQQ.exe
+d:\VS2010\Projects\MyQQ\bin\Debug\MyQQ.pdb
+d:\VS2010\Projects\MyQQ\obj\x86\Debug\MyQQ.Properties.Resources.resources
+d:\VS2010\Projects\MyQQ\obj\x86\Debug\MyQQ.csproj.GenerateResource.Cache
+d:\VS2010\Projects\MyQQ\obj\x86\Debug\MyQQ.exe
+d:\VS2010\Projects\MyQQ\obj\x86\Debug\MyQQ.pdb

@@ -1,0 +1,7 @@
+D:\VS2010\Projects\MyQQ\QQClass\bin\Debug\QQClass.dll
+D:\VS2010\Projects\MyQQ\QQClass\bin\Debug\QQClass.pdb
+D:\VS2010\Projects\MyQQ\QQClass\bin\Debug\QQClient.exe
+D:\VS2010\Projects\MyQQ\QQClass\bin\Debug\QQClient.pdb
+D:\VS2010\Projects\MyQQ\QQClass\obj\Debug\QQClass.csprojResolveAssemblyReference.cache
+D:\VS2010\Projects\MyQQ\QQClass\obj\Debug\QQClass.dll
+D:\VS2010\Projects\MyQQ\QQClass\obj\Debug\QQClass.pdb

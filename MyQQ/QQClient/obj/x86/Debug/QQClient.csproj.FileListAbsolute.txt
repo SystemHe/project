@@ -1,0 +1,13 @@
+d:\VS2010\Projects\MyQQ\QQClient\bin\Debug\QQClient.exe
+d:\VS2010\Projects\MyQQ\QQClient\bin\Debug\QQClient.pdb
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\QQClient.Properties.Resources.resources
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\QQClient.csproj.GenerateResource.Cache
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\QQClient.exe
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\QQClient.pdb
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\QQClient.csprojResolveAssemblyReference.cache
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\MyQQClient.F_Chat.resources
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\MyQQClient.F_Client.resources
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\MyQQClient.F_Logon.resources
+d:\VS2010\Projects\MyQQ\QQClient\obj\x86\Debug\MyQQClient.F_SerSetup.resources
+d:\VS2010\Projects\MyQQ\QQClient\bin\Debug\QQClass.dll
+d:\VS2010\Projects\MyQQ\QQClient\bin\Debug\QQClass.pdb

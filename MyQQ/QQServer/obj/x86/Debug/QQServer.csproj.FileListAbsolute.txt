@@ -1,0 +1,10 @@
+d:\VS2010\Projects\MyQQ\QQServer\bin\Debug\QQServer.exe
+d:\VS2010\Projects\MyQQ\QQServer\bin\Debug\QQServer.pdb
+d:\VS2010\Projects\MyQQ\QQServer\obj\x86\Debug\QQServer.Properties.Resources.resources
+d:\VS2010\Projects\MyQQ\QQServer\obj\x86\Debug\QQServer.csproj.GenerateResource.Cache
+d:\VS2010\Projects\MyQQ\QQServer\obj\x86\Debug\QQServer.exe
+d:\VS2010\Projects\MyQQ\QQServer\obj\x86\Debug\QQServer.pdb
+d:\VS2010\Projects\MyQQ\QQServer\bin\Debug\QQClass.dll
+d:\VS2010\Projects\MyQQ\QQServer\bin\Debug\QQClass.pdb
+d:\VS2010\Projects\MyQQ\QQServer\obj\x86\Debug\QQServer.csprojResolveAssemblyReference.cache
+d:\VS2010\Projects\MyQQ\QQServer\obj\x86\Debug\MyQQServer.F_Server.resources
