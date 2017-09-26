@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWMS", "PWMS\PWMS.csproj", "{6AEC5B17-6F4F-47F2-BB6F-3F1FCA319E25}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{0AFF6988-4153-46BE-9D1F-29AF187DC410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AEC5B17-6F4F-47F2-BB6F-3F1FCA319E25}.Debug|x86.ActiveCfg = Debug|x86
+		{6AEC5B17-6F4F-47F2-BB6F-3F1FCA319E25}.Debug|x86.Build.0 = Debug|x86
+		{6AEC5B17-6F4F-47F2-BB6F-3F1FCA319E25}.Release|x86.ActiveCfg = Release|x86
+		{6AEC5B17-6F4F-47F2-BB6F-3F1FCA319E25}.Release|x86.Build.0 = Release|x86
+		{0AFF6988-4153-46BE-9D1F-29AF187DC410}.Debug|x86.ActiveCfg = Debug
+		{0AFF6988-4153-46BE-9D1F-29AF187DC410}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
